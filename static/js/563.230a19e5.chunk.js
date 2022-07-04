@@ -1,0 +1,1 @@
+(self.webpackChunkblog_disable_suggested_gas_fee_in_metamask_using_web3js=self.webpackChunkblog_disable_suggested_gas_fee_in_metamask_using_web3js||[]).push([[563],{36563:function(){}}]);
