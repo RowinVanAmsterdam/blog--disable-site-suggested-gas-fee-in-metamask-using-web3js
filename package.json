@@ -2,7 +2,7 @@
     "name": "blog-disable-suggested-gas-fee-in-metamask-using-web3js",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://rowinva.github.io/",
+    "homepage": "https://rowinva.github.io/blog--disable-site-suggested-gas-fee-in-metamask-using-web3js/",
     "dependencies": {
         "@rainbow-me/rainbowkit": "^0.4.0",
         "@testing-library/jest-dom": "^5.16.4",
@@ -23,11 +23,11 @@
     },
     "scripts": {
         "start": "react-app-rewired start",
-        "build": "react-scripts build",
+        "build": "react-app-rewired build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -b main -d build"
     },
     "eslintConfig": {
         "extends": [
